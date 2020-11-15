@@ -56,3 +56,11 @@ li{
   color:#ffffff;
   background-color:#171515;
 }
+
+.container
+{
+	border:1px solid #ccc;
+	margin:0 auto;
+	text-align:left;
+	width:640px;
+}
